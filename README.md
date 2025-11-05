@@ -126,7 +126,7 @@ Interface gráfica (JavaFX ou Swing)
 
 🙌 Desenvolvido por:
 
-Aluno(a): Seu Nome Aqui
+Aluno(a): Luiz Henrique Xavier AND Danielly Borges 
 Disciplina: Redes de Computadores
 Instituição: IFBA
 Ano: 2025
