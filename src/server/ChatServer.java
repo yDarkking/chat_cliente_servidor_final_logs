@@ -67,7 +67,7 @@ public class ChatServer {
                         leaveRoom();
                         break;
                     } else {
-                        broadcast("[" + userName + "] " + msg, true);
+                        broadcast("[" + userName + "] " + msg, false);
                         writeLog(ts() + " [" + userName + "] " + msg, room);
                     }
                 }
